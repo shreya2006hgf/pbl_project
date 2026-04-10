@@ -1,0 +1,4 @@
+normalMean              = 0
+normalScale             = 0.1
+tumorMean               = normalMean + randint(-1, 1) / 80.0
+tumorScale              = 0.1

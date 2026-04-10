@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎗️ Curivia — Breast Cancer Intelligence Platform
 
 **AI-powered breast cancer stage prediction, molecular subtyping, and personalized dietary guidance.**
@@ -228,3 +229,7 @@ Each plan includes:
 - ES7+ React/Redux/React-Native snippets
 - Thunder Client (API testing)
 - GitLens
+=======
+# pbl_project
+this is my ppt for my PBL project presentation
+>>>>>>> 223d0f6365746d9253a0128269fcca5f2a9ab219
